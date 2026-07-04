@@ -19,13 +19,13 @@ MATLAB的多目标物品自动计数与位置标注系统
 4.连通域分析：bwlabel标记所有连通区域，regionprops提取每个区域的面积、中心坐标、外接矩形参数
 5.噪声筛选：设置像素面积阈值，过滤灰尘、杂点产生的无效连通域
 6.可视化输出：在原图绘制彩色包围框、中心点、目标编号，控制台输出物体总数与坐标信息
- 
+ x
 四、文件目录结构
 CV_Count_Project/
-main.m                主运行代码
-test_parts.jpg        测试素材图片
-课程设计完整报告.docx
-result_picture        处理过程效果图文件夹
+coin2.m                主运行代码
+coinx        测试素材图片文件夹
+大作业.docx
+coin_result      处理过程效果图文件夹
  
 五、运行方法
 1.将main.m与测试图片test_parts.jpg放在同一文件夹
