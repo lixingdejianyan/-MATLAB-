@@ -24,7 +24,6 @@ MATLAB的多目标物品自动计数与位置标注系统
 CV_Count_Project/
 coin2.m                主运行代码
 coinx        测试素材图片文件夹
-大作业.docx
 coin_result      处理过程效果图文件夹
  
 五、运行方法
